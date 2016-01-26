@@ -1,0 +1,27 @@
+body
+{
+    background-color:#4487e8;
+}
+header
+{
+    background-color:#4ac4ff;
+    padding:15px;
+}
+header h1
+{
+    color:#5744e8;
+}
+ul li 
+{
+    list-style-type:none;
+}
+h3
+{
+    color:white;
+}
+footer
+{
+    background-color:#4ac4ff;
+    padding:15px;
+}
+
